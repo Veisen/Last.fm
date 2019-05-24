@@ -1,2 +1,2 @@
 # Lastfm
-A Lastfm plugin for Emby Server
+A Lastfm plugin port for Jellyfin from Emby Server
